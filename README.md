@@ -4,4 +4,5 @@
 
 #Language (HTML -CSS -Vanilla JAVASCRIPT)
 
-![alt text](https://i.imgur.com/xepALLN.png) (https://i.imgur.com/4VsyCGj.png)
+![alt text](https://i.imgur.com/xepALLN.png) 
+![alt text](https://i.imgur.com/4VsyCGj.png)
